@@ -8,7 +8,8 @@ public class Sample
 	
 		
 		System.out.println("raghuKiran");
-		System.out.println("raghu");
+		System.out.println(12345);
+		System.out.println(678910);
 		
 	}
 	
