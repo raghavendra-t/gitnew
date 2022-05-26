@@ -10,6 +10,7 @@ public class Sample
 		System.out.println("raghukiRan");
 		System.out.println(12345);
 		System.out.println(678910);
+		System.out.println(977);
 		
 	}
 	
