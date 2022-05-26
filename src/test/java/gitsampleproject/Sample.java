@@ -7,7 +7,7 @@ public class Sample
 	{
 	
 		
-		System.out.println("raghUkiran");
+		System.out.println("raghukIran");
 		System.out.println(12345);
 		System.out.println(678910);
 		
